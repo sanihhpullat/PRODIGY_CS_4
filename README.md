@@ -1,4 +1,4 @@
-## Educational Keylogger Demo 🔑
+## Educational Keylogger Demo 
 
 A simple Python tool created for learning how keystroke logging works in a safe and permission‑based environment. It records keys pressed and saves them to a local file to help understand defensive cybersecurity concepts.
 
